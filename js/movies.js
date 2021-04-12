@@ -23,5 +23,5 @@ do {
 
       } while (i <= 1);
 
-
+// result in browser console..
 console.log(personalMovieDB);
